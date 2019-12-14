@@ -1,0 +1,5 @@
+C:\ilin\K2 blackpearl - миф или реальность\K2 processes\test\SharepointTest\SquareCalculator\SQlibrary\bin\Debug\SQlibrary.dll
+C:\ilin\K2 blackpearl - миф или реальность\K2 processes\test\SharepointTest\SquareCalculator\SQlibrary\bin\Debug\SQlibrary.pdb
+C:\ilin\K2 blackpearl - миф или реальность\K2 processes\test\SharepointTest\SquareCalculator\SQlibrary\obj\Debug\SQlibrary.csprojResolveAssemblyReference.cache
+C:\ilin\K2 blackpearl - миф или реальность\K2 processes\test\SharepointTest\SquareCalculator\SQlibrary\obj\Debug\SQlibrary.dll
+C:\ilin\K2 blackpearl - миф или реальность\K2 processes\test\SharepointTest\SquareCalculator\SQlibrary\obj\Debug\SQlibrary.pdb

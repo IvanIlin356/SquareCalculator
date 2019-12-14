@@ -1,0 +1,8 @@
+C:\ilin\K2 blackpearl - миф или реальность\K2 processes\test\SharepointTest\SquareCalculator\SQtests\bin\Debug\SQtests.dll
+C:\ilin\K2 blackpearl - миф или реальность\K2 processes\test\SharepointTest\SquareCalculator\SQtests\bin\Debug\SQtests.pdb
+C:\ilin\K2 blackpearl - миф или реальность\K2 processes\test\SharepointTest\SquareCalculator\SQtests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\ilin\K2 blackpearl - миф или реальность\K2 processes\test\SharepointTest\SquareCalculator\SQtests\bin\Debug\SQlibrary.dll
+C:\ilin\K2 blackpearl - миф или реальность\K2 processes\test\SharepointTest\SquareCalculator\SQtests\bin\Debug\SQlibrary.pdb
+C:\ilin\K2 blackpearl - миф или реальность\K2 processes\test\SharepointTest\SquareCalculator\SQtests\obj\Debug\SQtests.csprojResolveAssemblyReference.cache
+C:\ilin\K2 blackpearl - миф или реальность\K2 processes\test\SharepointTest\SquareCalculator\SQtests\obj\Debug\SQtests.dll
+C:\ilin\K2 blackpearl - миф или реальность\K2 processes\test\SharepointTest\SquareCalculator\SQtests\obj\Debug\SQtests.pdb
